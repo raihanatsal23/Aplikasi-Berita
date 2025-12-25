@@ -3,7 +3,7 @@ class ApiConstants {
   static const String baseUrl = 'https://newsapi.org/v2';
 
   // ⚠️ GANTI DENGAN API KEY KAMU!
-  static const String apiKey = '1d66658932a44554b99415d3e3a50331';
+  static const String apiKey = 'Gunakan API Key Masing Masing';
 
   // Endpoints
   static const String topHeadlines = '/top-headlines';
